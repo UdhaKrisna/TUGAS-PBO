@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserDataWithTopics>
+    <UserData>
+        <UserId>1</UserId>
+        <UserName>UdhaKrisna</UserName>
+        <FirstName>Udha</FirstName>
+        <LastName>Krisna</LastName>
+        <Password 
+            hashAlgorithm="algoritmaX">
+            bsoteamone17};gxc
+        </Password>
+
+        <TimeStampts>
+            <DateJoined>17-Jan-2017</DateJoined>
+            <DateUpdated>08-Nov-2020</DateUpdated>
+        </TimeStampts>
+
+</UserDataWithTopics>
+
+    <Topics>
+        <Topic>
+            <TopicId>1</TopicId>
+            <TopicName>Topic XML JSON</TopicName>
+        </Topic>
+        <Topic>
+            <TopicId>2</TopicId>
+            <TopicName>Kesalahan pada baris berikutnya</TopicName>
+        </Topic>
+    </Topics>
