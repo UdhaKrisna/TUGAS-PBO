@@ -1,0 +1,25 @@
+{
+    "userData": {
+        "userId":1,
+        "username":   "UdhaKrisna",
+        "firstname":  "Udha",
+        "lastname":   "Krisna",
+        "password":   "bsoteamone17",
+
+        "timeStamps"
+        "dateJoined" : "17-Jan-2017",
+        "dateUpdated": "08-Nov-2020"
+    }
+}
+
+"topics": [
+    {
+        "topicId": 1,
+        "topicName": "Topik : XML dan JSON"
+    }
+    {
+        "topicID": 2,
+        "topicName": "Kesalahan pada baris berikutnya"
+    }
+]
+}
